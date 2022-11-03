@@ -5,6 +5,7 @@ and datastore. The Client is React, the server is Node/Express and the
 Datastore is MongoDB. Faker is used to create generic data for creating users.
 
 * Installation
+
 To run this program Make sure you have Node.JS and Docker Hub installed on your 
 computer. Download the files from the repository. In order to run this you need 
 to have a local web server. How to install local, In VS Code open project folder 
